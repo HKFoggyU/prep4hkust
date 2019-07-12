@@ -31,9 +31,10 @@
 ## 到后事务
 - [ ] 八达通
 - [ ] 宿舍Check-in
+- [ ] 港科校园卡
 - [ ] 电话卡（储值卡）
 - [ ] 银行卡：debit/credit
-- [ ] 在港驻留身份证件
+- [ ] [香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)
 - [ ] 学费直接从工资扣
 - [ ] 医疗保险（交学费的同时？）[website](https://sfao.ust.hk/individual.php?l=30)
    > **Insurance Fee**
