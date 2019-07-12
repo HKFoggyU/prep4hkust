@@ -2,12 +2,12 @@
 
 ## 暑假事务
 - [ ] 报到证+档案
-- [ ] 各尺寸照片（1寸、2寸、护照大小、香港大小）
+- [ ] 各尺寸照片（1寸、2寸、[护照大小](https://ppt.mfa.gov.cn/appo/page/instruction.html)、[香港大小](https://www.immd.gov.hk/hks/residents/immigration/traveldoc/photorequirements.html)）
 - [x] 兑换港币
 - [ ] 宿舍系统确认（07.20）
 - [ ] 手机开通漫游（08）
 - [x] 决定出行方案；买票（07.15）
-    -  动卧（无需住宿，最推荐）
+    -  动卧
     
     | 出发 | 班次 | 到达 | 耗时 | 花费 |
     | --- | --- | --- | --- | --- |
