@@ -1,5 +1,7 @@
 # Check List
 
+- 合集：[MSSS文章](https://mp.weixin.qq.com/s/stN9mQwmPXI8FmfvhrEYxQ)
+
 ## 暑假事务
 - [ ] 报到证+档案
 - [ ] 各尺寸照片（1寸、2寸、[护照大小](https://ppt.mfa.gov.cn/appo/page/instruction.html)、[香港大小](https://www.immd.gov.hk/hks/residents/immigration/traveldoc/photorequirements.html)）
@@ -44,7 +46,6 @@
 - [ ] GTA Session（10am, 08.23）
 - 正式开学（09.02）
 - [ ] [在港澳地区学习证明](https://mp.weixin.qq.com/s/ocmK96NehfX1dbon9A66zw)
-- 合集：[MSSS文章](https://mp.weixin.qq.com/s/stN9mQwmPXI8FmfvhrEYxQ)
 
 ---
 
