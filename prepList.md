@@ -43,6 +43,8 @@
 - [ ] 选课（9am, 08.22）：[PDC](https://pg.ust.hk/prospective-students/after-getting-an-offer/getting-started-at-hkust/research-postgraduate-students#enroll-in-professional-development-courses)
 - [ ] GTA Session（10am, 08.23）
 - 正式开学（09.02）
+- [ ] [在港澳地区学习证明](https://mp.weixin.qq.com/s/ocmK96NehfX1dbon9A66zw)
+- 合集：[MSSS文章](https://mp.weixin.qq.com/s/stN9mQwmPXI8FmfvhrEYxQ)
 
 ---
 
