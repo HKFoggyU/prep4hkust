@@ -3,7 +3,7 @@
 - 合集：[MSSS文章](https://mp.weixin.qq.com/s/stN9mQwmPXI8FmfvhrEYxQ)
 
 ## 暑假事务
-- [ ] 报到证+档案
+- [x] 报到证+档案
 - [x] 各尺寸照片（1寸、2寸、[护照大小](https://ppt.mfa.gov.cn/appo/page/instruction.html)、[香港大小](https://www.immd.gov.hk/hks/residents/immigration/traveldoc/photorequirements.html)）
 - [x] 兑换港币
 - [ ] 宿舍系统确认（07.20）
@@ -25,17 +25,19 @@
 ---
 
 ## 需带材料
-- [ ] 身份材料：身份证、护照、港澳通行证、签纸；户口本
-- [ ] 报到材料：Offer/Confirmation Letter、housing confirmation email、两证等
+- [ ] 身份材料：身份证、护照、港澳通行证、签纸；户口本（含复印件）
+- [ ] 报到材料：Offer/Confirmation Letter、housing confirmation email、两证等 （含复印件）
 - [ ] 照片
 - [ ] 港币/人民币，银行卡
+- [ ] 驾照?
+- [ ] 银行流水?
 
 ## 到后事务
-- [ ] 八达通
-- [ ] 宿舍Check-in
-- [ ] 港科校园卡
-- [ ] 电话卡（储值卡）
-- [ ] 银行卡：debit/credit
+- [ ] 八达通（08.17）
+- [ ] 宿舍Check-in（08.17）
+- [ ] 港科校园卡（08.18）
+- [ ] 电话卡（储值卡）（08.18）
+- [ ] 银行卡：debit/credit（08.18）
 - [ ] 申领[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.18）
 - [ ] 学费直接从工资扣
 - [ ] 医疗保险（交学费的同时？）[website](https://sfao.ust.hk/individual.php?l=30)
@@ -45,7 +47,7 @@
 - [ ] 选课（9am, 08.22）：[PDC](https://pg.ust.hk/prospective-students/after-getting-an-offer/getting-started-at-hkust/research-postgraduate-students#enroll-in-professional-development-courses)
 - [ ] GTA Session（10am, 08.23）
 - 正式开学（09.02）
-- [ ] [在港澳地区学习证明](https://mp.weixin.qq.com/s/ocmK96NehfX1dbon9A66zw)
+- [ ] 登记[在港澳地区学习证明](https://mp.weixin.qq.com/s/ocmK96NehfX1dbon9A66zw)
 
 ---
 
