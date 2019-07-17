@@ -31,16 +31,17 @@
 - [ ] 港币/人民币，银行卡
 - [ ] 驾照?
 - [ ] 银行流水?
+- [ ] 生活物品
 
 ## 到后事务
 - [ ] 八达通（08.17）
 - [ ] 宿舍Check-in（08.17）
 - [ ] 港科校园卡（08.18）
 - [ ] 电话卡（储值卡）（08.18）
-- [ ] 银行卡：debit/credit（08.18）
 - [ ] 申领[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.18）
-- [ ] 学费直接从工资扣
-- [ ] 医疗保险（交学费的同时？）[website](https://sfao.ust.hk/individual.php?l=30)
+- [ ] 银行卡：debit/credit（08.18）
+- [ ] 申请学费直接从工资扣（填表，届时有通知）
+- [ ] 医疗保险（交学费的同时？）[website](https://sfao.ust.hk/individual.php?l=30)（届时有通知）
    > **Insurance Fee**
    > In Fall Semester of 2019/20, all new and continuing non-local full-time degree-seeking students MUST pay a medical insurance fee of $358 with the tuition fee.
 - [ ] 英语口语考试（08.19）
