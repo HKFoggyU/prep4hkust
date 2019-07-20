@@ -6,8 +6,7 @@
 - [x] 报到证+档案
 - [x] 各尺寸照片（1寸、2寸、[护照大小](https://ppt.mfa.gov.cn/appo/page/instruction.html)、[香港大小](https://www.immd.gov.hk/hks/residents/immigration/traveldoc/photorequirements.html)）
 - [x] 兑换港币
-- [ ] 宿舍系统确认（07.20）
-- [ ] 手机开通漫游（08）
+- [x] 宿舍系统确认（07.20）
 - [x] 决定出行方案；买票（07.15）
     -  动卧
     
@@ -16,16 +15,18 @@
     | 上海虹桥（16日，20:05） | D935 | 深圳北（17日，06:39） | 10h34m | 910 |
     | \*深圳北（17日，08:24） | G5637 | 香港西九龙（17日，08:42） | 18m | 75 |
     |香港西九龙 | 港铁/巴士 | 港科校园 | ~1h | ~20 |
-     
+    
      \*以上途径深圳的方案也可以从深圳陆路过关，耗时约2h。
+- [ ] 复印各材料
+- [ ] 手机开通漫游（08）
+- [ ] [激活ITSC帐号](https://myaccount.ust.hk/passwd/studentAcctActivation)（08）
+- [ ] [注册英语口语考试](http://register.cle.ust.hk/elpa)（08.09）
 - [ ] Program Registration（开学前3星期登录申请系统查看）
-- [ ] 激活ITSC帐号
-- [ ] 注册英语口语考试(08.09)
 
 ---
 
 ## 需带材料
-- [ ] 身份材料：身份证、护照、港澳通行证、签纸；户口本（含复印件）
+- [ ] 身份材料：身份证、护照、港澳通行证、签纸；户口本?（含复印件）
 - [ ] 报到材料：Offer/Confirmation Letter、housing confirmation email、两证等 （含复印件）
 - [ ] 照片
 - [ ] 港币/人民币，银行卡
@@ -42,8 +43,7 @@
 - [ ] 银行卡：debit/credit（08.18）
 - [ ] 申请学费直接从工资扣（填表，届时有通知）
 - [ ] 医疗保险（交学费的同时？）[website](https://sfao.ust.hk/individual.php?l=30)（届时有通知）
-   > **Insurance Fee**
-   > In Fall Semester of 2019/20, all new and continuing non-local full-time degree-seeking students MUST pay a medical insurance fee of $358 with the tuition fee.
+   > **Insurance Fee** In Fall Semester of 2019/20, all new and continuing non-local full-time degree-seeking students MUST pay a medical insurance fee of $358 with the tuition fee.
 - [ ] 英语口语考试（08.19）
 - [ ] 选课（9am, 08.22）：[PDC](https://pg.ust.hk/prospective-students/after-getting-an-offer/getting-started-at-hkust/research-postgraduate-students#enroll-in-professional-development-courses)
 - [ ] GTA Session（10am, 08.23）
@@ -81,7 +81,7 @@
            - Summer (June to August) - 26°C - 31°C (can rise above 31°C)
            - Autumn (September to November) - 21°C - 27°C
            - Winter (December to February) - 12°C - 20°C (can drop below 10°C)
-           
+        
         It is good to bring a good variety of clothing.
         Layering is recommended. Most campus buildings and university areas are air-conditioned.
         There is no central heating in the buildings. Adequate warm clothing is recommended for winter time.
