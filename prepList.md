@@ -6,7 +6,6 @@
 - [x] 报到证+档案
 - [x] 各尺寸照片（1寸、2寸、[护照大小](https://ppt.mfa.gov.cn/appo/page/instruction.html)、[香港大小](https://www.immd.gov.hk/hks/residents/immigration/traveldoc/photorequirements.html)）
 - [x] 兑换港币
-- [x] 宿舍系统确认（07.20）
 - [x] 决定出行方案；买票（07.15）
     -  动卧
     
@@ -17,6 +16,7 @@
     |香港西九龙 | 港铁/巴士 | 港科校园 | ~1h | ~20 |
     
      \*以上途径深圳的方案也可以从深圳陆路过关，耗时约2h。
+- [x] 宿舍系统确认（07.20）
 - [ ] 复印各材料
 - [ ] 手机开通漫游（08）
 - [ ] [激活ITSC帐号](https://myaccount.ust.hk/passwd/studentAcctActivation)（08）
@@ -36,7 +36,7 @@
 
 ## 到后事务
 - [ ] 八达通（08.17）
-- [ ] 宿舍Check-in（08.17）
+- [ ] 宿舍Check-in（领取住址证明）（08.17）
 - [ ] 港科校园卡（08.18）
 - [ ] 电话卡（储值卡）（08.18）
 - [ ] 申领[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.18）
