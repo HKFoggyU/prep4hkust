@@ -17,7 +17,7 @@
     
      \*以上途径深圳的方案也可以从深圳陆路过关，耗时约2h。
 - [x] 宿舍系统确认（07.20）
-- [ ] 复印各材料
+- [x] 复印各材料
 - [ ] 手机开通漫游（08）
 - [ ] [激活ITSC帐号](https://myaccount.ust.hk/passwd/studentAcctActivation)（08）
 - [ ] [注册英语口语考试](http://register.cle.ust.hk/elpa)（08.09）
@@ -37,7 +37,7 @@
 ## 到后事务
 - [ ] 八达通（08.17）
 - [ ] 宿舍Check-in（领取住址证明）（08.17）
-- [ ] 港科校园卡（08.18）
+- [ ] RPg注册、港科校园卡（08.18）
 - [ ] 电话卡（储值卡）（08.18）
 - [ ] 申领[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.18）
 - [ ] 银行卡：debit/credit（08.18）
