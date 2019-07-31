@@ -18,10 +18,12 @@
      \*以上途径深圳的方案也可以从深圳陆路过关，耗时约2h。
 - [x] 宿舍系统确认（07.20）
 - [x] 复印各材料
-- [ ] 手机开通漫游（08）
-- [x] [激活ITSC帐号](https://myaccount.ust.hk/passwd/studentAcctActivation)（08）
+- [x] [激活ITSC帐号](https://myaccount.ust.hk/passwd/studentAcctActivation)（07.26）
+- [x] Program Registration（开学前3星期登录申请系统查看）（07.29）
+- [ ] 手机开通漫游/是否上台（08）
+- [ ] 查看PG课程详情
 - [ ] [注册英语口语考试](http://register.cle.ust.hk/elpa)（08.09）
-- [ ] Program Registration（开学前3星期登录申请系统查看）
+- [ ] 预约[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.15）
 
 ---
 
@@ -36,19 +38,19 @@
 
 ## 到后事务
 - [ ] 八达通（08.17）
-- [ ] 宿舍Check-in（领取住址证明）（08.17）
-- [ ] RPg实地注册、港科校园卡（08.18）
-- [ ] 电话卡（储值卡）（08.18）
-- [ ] 申领[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.18）
+- [ ] RPg实地注册、港科校园卡（08.17）
+- [ ] 宿舍Check-in（同时领取住址证明）（08.17）
+- [ ] ~~电话卡（储值卡）（08.18）~~
 - [ ] 银行卡：debit/credit（08.18）
-- [ ] 申请学费直接从工资扣（填表，届时有通知）
-- [ ] 医疗保险（交学费的同时？）[website](https://sfao.ust.hk/individual.php?l=30)（届时有通知）
+- [ ] 申请学费直接从工资扣（填表：`` DeferPaymentForm.pdf ``）
+- [ ] [医疗保险](https://sfao.ust.hk/individual.php?l=30)（已有通知：和学费同时）
    > **Insurance Fee** In Fall Semester of 2019/20, all new and continuing non-local full-time degree-seeking students MUST pay a medical insurance fee of $358 with the tuition fee.
 - [ ] 英语口语考试（08.19）
 - [ ] 选课（9am, 08.22）：[PDC](https://pg.ust.hk/prospective-students/after-getting-an-offer/getting-started-at-hkust/research-postgraduate-students#enroll-in-professional-development-courses)
 - [ ] GTA Session（10am, 08.23）
-- 正式开学（09.02）
+- [ ] 领取[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.23+）
 - [ ] 登记[在港澳地区学习证明](https://mp.weixin.qq.com/s/ocmK96NehfX1dbon9A66zw)
+- 正式开学（09.02）
 
 ---
 
