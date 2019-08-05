@@ -37,19 +37,21 @@
 - [ ] 生活物品
 
 ## 到后事务
-- [ ] 八达通（08.17）
+- [ ] ~~八达通（08.17）~~
 - [ ] RPg实地注册、港科校园卡（08.17）
 - [ ] 宿舍Check-in（同时领取住址证明）（08.17）
-- [ ] ~~电话卡（储值卡）（08.18）~~
+- [ ] 领取[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.23+）
+- [ ] ~~电话卡（储值卡）~~更新MyLink地址、营业厅信息
 - [ ] 银行卡：debit/credit（08.18）
 - [ ] 申请学费直接从工资扣（填表：`` DeferPaymentForm.pdf ``）
-- [ ] [医疗保险](https://sfao.ust.hk/individual.php?l=30)（已有通知：和学费同时）
+- [ ] [医疗保险](https://sfao.ust.hk/individual.php?l=30)（需手动交）
    > **Insurance Fee** In Fall Semester of 2019/20, all new and continuing non-local full-time degree-seeking students MUST pay a medical insurance fee of $358 with the tuition fee.
 - [ ] 英语口语考试（08.19）
 - [ ] 选课（9am, 08.22）：[PDC](https://pg.ust.hk/prospective-students/after-getting-an-offer/getting-started-at-hkust/research-postgraduate-students#enroll-in-professional-development-courses)
 - [ ] GTA Session（10am, 08.23）
-- [ ] 领取[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.23+）
 - [ ] 登记[在港澳地区学习证明](https://mp.weixin.qq.com/s/ocmK96NehfX1dbon9A66zw)
+- [ ] 使用Duo Mobile
+- [ ] 与导师见面
 - 正式开学（09.02）
 
 ---
