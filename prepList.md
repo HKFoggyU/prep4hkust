@@ -23,7 +23,7 @@
 - [x] 手机开通漫游/是否上台（08）
 - [x] 查看PG课程详情
 - [ ] [注册英语口语考试](http://register.cle.ust.hk/elpa)（08.09）
-- [ ] 预约[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.14）
+- [x] 预约[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.14）
 
 ---
 
@@ -39,7 +39,7 @@
 ## 到后事务
 - [ ] RPg实地注册、港科校园卡（08.17）
 - [ ] 宿舍Check-in（同时领取住址证明）（08.17）
-- [ ] 办理[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（获得临时身份证）（3pm, 08.19）
+- [ ] 办理[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（同时获得临时身份证）（10am, 观塘, 08.21）
 - [ ] ~~电话卡~~更新MyLink地址、营业厅信息
 - [ ] ~~八达通~~学生八达通
 - [ ] 银行卡：debit/credit（08.18）
