@@ -39,7 +39,7 @@
 ## 到后事务
 - [ ] RPg实地注册、港科校园卡（08.17）
 - [ ] 宿舍Check-in（同时领取住址证明）（08.17）
-- [ ] 领取[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.23+）
+- [ ] 办理[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（获得临时身份证）（3pm, 08.19）
 - [ ] ~~电话卡~~更新MyLink地址、营业厅信息
 - [ ] ~~八达通~~学生八达通
 - [ ] 银行卡：debit/credit（08.18）
@@ -52,6 +52,7 @@
 - [ ] 登记[在港澳地区学习证明](https://mp.weixin.qq.com/s/ocmK96NehfX1dbon9A66zw)
 - [ ] 使用Duo Mobile
 - [ ] 与导师见面
+- [ ] 领取香港身份证
 - 正式开学（09.02）
 
 ---
