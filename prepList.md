@@ -20,10 +20,10 @@
 - [x] 复印各材料
 - [x] [激活ITSC帐号](https://myaccount.ust.hk/passwd/studentAcctActivation)（07.26）
 - [x] Program Registration（开学前3星期登录申请系统查看）（07.29）
-- [ ] 手机开通漫游/是否上台（08）
-- [ ] 查看PG课程详情
+- [x] 手机开通漫游/是否上台（08）
+- [x] 查看PG课程详情
 - [ ] [注册英语口语考试](http://register.cle.ust.hk/elpa)（08.09）
-- [ ] 预约[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.15）
+- [ ] 预约[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.14）
 
 ---
 
@@ -37,11 +37,11 @@
 - [ ] 生活物品
 
 ## 到后事务
-- [ ] ~~八达通（08.17）~~
 - [ ] RPg实地注册、港科校园卡（08.17）
 - [ ] 宿舍Check-in（同时领取住址证明）（08.17）
 - [ ] 领取[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.23+）
-- [ ] ~~电话卡（储值卡）~~更新MyLink地址、营业厅信息
+- [ ] ~~电话卡~~更新MyLink地址、营业厅信息
+- [ ] ~~八达通~~学生八达通
 - [ ] 银行卡：debit/credit（08.18）
 - [ ] 申请学费直接从工资扣（填表：`` DeferPaymentForm.pdf ``）
 - [ ] [医疗保险](https://sfao.ust.hk/individual.php?l=30)（需手动交）
