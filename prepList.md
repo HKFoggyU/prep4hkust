@@ -22,7 +22,7 @@
 - [x] Program Registration（开学前3星期登录申请系统查看）（07.29）
 - [x] 手机开通漫游/是否上台（08）
 - [x] 查看PG课程详情
-- [ ] [注册英语口语考试](http://register.cle.ust.hk/elpa)（08.09）
+- [x] [注册英语口语考试](http://register.cle.ust.hk/elpa)（08.09）
 - [x] 预约[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（08.14）
 
 ---
@@ -42,11 +42,11 @@
 - [ ] 办理[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（同时获得临时身份证）（10am, 观塘, 08.21）
 - [ ] ~~电话卡~~更新MyLink地址、营业厅信息
 - [ ] ~~八达通~~学生八达通
-- [ ] 银行卡：debit/credit（08.18）
+- [ ] 银行卡：debit/credit（08.20+）
 - [ ] 申请学费直接从工资扣（填表：`` DeferPaymentForm.pdf ``）
 - [ ] [医疗保险](https://sfao.ust.hk/individual.php?l=30)（需手动交）
    > **Insurance Fee** In Fall Semester of 2019/20, all new and continuing non-local full-time degree-seeking students MUST pay a medical insurance fee of $358 with the tuition fee.
-- [ ] 英语口语考试（08.19）
+- [ ] 英语口语考试（10am, 08.19）
 - [ ] 选课（9am, 08.22）：[PDC](https://pg.ust.hk/prospective-students/after-getting-an-offer/getting-started-at-hkust/research-postgraduate-students#enroll-in-professional-development-courses)
 - [ ] GTA Session（10am, 08.23）
 - [ ] 登记[在港澳地区学习证明](https://mp.weixin.qq.com/s/ocmK96NehfX1dbon9A66zw)
