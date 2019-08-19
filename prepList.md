@@ -46,10 +46,10 @@
 - [ ] 申请学费直接从工资扣（填表：`` DeferPaymentForm.pdf ``）
 - [ ] [医疗保险](https://sfao.ust.hk/individual.php?l=30)（需手动交）
    > **Insurance Fee** In Fall Semester of 2019/20, all new and continuing non-local full-time degree-seeking students MUST pay a medical insurance fee of $358 with the tuition fee.
-- [ ] 英语口语考试（10am, 08.19）
+- [x] 英语口语考试（10am, 08.19）
 - [ ] 选课（9am, 08.22）：[PDC](https://pg.ust.hk/prospective-students/after-getting-an-offer/getting-started-at-hkust/research-postgraduate-students#enroll-in-professional-development-courses)
 - [ ] GTA Session（10am, 08.23）
-- [ ] 登记[在港澳地区学习证明](https://mp.weixin.qq.com/s/ocmK96NehfX1dbon9A66zw)
+- [x] 登记[在港澳地区学习证明](https://mp.weixin.qq.com/s/ocmK96NehfX1dbon9A66zw)
 - [ ] 使用Duo Mobile
 - [x] 与导师见面
 - [ ] 领取香港身份证
