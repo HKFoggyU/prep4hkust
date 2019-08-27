@@ -42,7 +42,7 @@
 - [x] 办理[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（同时获得临时身份证）（10am, 观塘, 08.21）
 - [ ] ~~电话卡~~更新MyLink地址、营业厅信息
 - [ ] ~~八达通~~学生八达通
-- [ ] 银行卡：debit/credit（08.20+）
+- [x] 银行卡：debit/credit（08.20+）
 - [x] 申请学费直接从工资扣（填表：`` DeferPaymentForm.pdf ``）
 - [x] [医疗保险](https://sfao.ust.hk/individual.php?l=30)（需手动交）
    > **Insurance Fee** In Fall Semester of 2019/20, all new and continuing non-local full-time degree-seeking students MUST pay a medical insurance fee of $358 with the tuition fee.
