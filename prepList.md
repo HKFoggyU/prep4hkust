@@ -40,8 +40,8 @@
 - [x] RPg实地注册、港科校园卡（08.17）
 - [x] 宿舍Check-in（同时领取住址证明）（08.17）
 - [x] 办理[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（同时获得临时身份证）（10am, 观塘, 08.21）
-- [ ] ~~电话卡~~更新MyLink地址、营业厅信息
-- [ ] ~~八达通~~学生八达通
+- [x] ~~电话卡~~更新MyLink地址、营业厅信息
+- [x] ~~八达通~~学生八达通
 - [x] 银行卡：debit/credit（08.20+）
 - [x] 申请学费直接从工资扣（填表：`` DeferPaymentForm.pdf ``）
 - [x] [医疗保险](https://sfao.ust.hk/individual.php?l=30)（需手动交）
@@ -52,7 +52,7 @@
 - [x] 登记[在港澳地区学习证明](https://mp.weixin.qq.com/s/ocmK96NehfX1dbon9A66zw)
 - [ ] 使用Duo Mobile
 - [x] 与导师见面
-- [ ] 领取香港身份证
+- [x] 领取香港身份证
 - 正式开学（09.02）
 
 ---
