@@ -50,7 +50,7 @@
 - [x] 选课（9am, 08.22）：[PDC](https://pg.ust.hk/prospective-students/after-getting-an-offer/getting-started-at-hkust/research-postgraduate-students#enroll-in-professional-development-courses)
 - [x] GTA Session（10am, 08.23）
 - [x] 登记[在港澳地区学习证明](https://mp.weixin.qq.com/s/ocmK96NehfX1dbon9A66zw)
-- [ ] 使用Duo Mobile
+- [x] 使用Duo Mobile
 - [x] 与导师见面
 - [x] 领取香港身份证
 - 正式开学（09.02）
