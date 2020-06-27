@@ -55,11 +55,13 @@
 - [ ] 报到材料：Offer/Confirmation Letter、housing confirmation email、两证等 （含复印件）
 - [ ] 照片
 - [ ] 港币/人民币，银行卡
-- [ ] 驾照?
-- [ ] 银行流水?
 - [ ] 生活物品
+- [ ] 银行流水?
+- [ ] 驾照??
 
 ## 到后事务
+
+### 一般事务
 - [x] RPg实地注册、港科校园卡（08.17）
 - [x] 宿舍Check-in（同时领取住址证明）（08.17）
 - [x] 办理[香港身份证](https://mp.weixin.qq.com/s/_2Zm5jEWsodKkLIpEYxXnw)（同时获得临时身份证）（10am, 观塘, 08.21）
@@ -77,6 +79,12 @@
 - [x] 与导师见面
 - [x] 领取香港身份证
 - 正式开学（09.02）
+
+### 实验室相关
+- [x] Lab Briefing by TK/Walter/...
+- [x] Lab safety test: [HSEO](https://hseo.ust.hk)
+- [ ] Eye check
+- [x] Get familiar with OneNote/DataServer/Lab Notes (check the files sent to you)
 
 ---
 
